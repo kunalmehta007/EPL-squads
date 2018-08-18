@@ -1,0 +1,24 @@
+/*.transition-hover-content {
+    display: none;   
+    transition:.5s;
+}
+
+.transition-hover:hover .transition-hover-content {
+    display: block;  
+}*/
+
+.playerdesc {
+	display: none;
+}
+
+#total:hover .playerbasic{
+	display: none;
+}
+
+#total:hover .playerdesc {
+	display: block;
+}
+
+.descfont {
+	font-family: 'BeautifulPeople';
+}

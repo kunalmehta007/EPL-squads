@@ -1,0 +1,28 @@
+img.center {
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	height: 100px;
+}
+
+
+@font-face {
+  font-family: 'EPL';
+  src: url('/Users/kunalmehta/Desktop/EPL-squads/BarclaysPremierLeague.ttf') format('truetype');
+  font-weight: bold;
+  font-style: bold;
+}
+
+.display {
+	font-family: 'EPL';
+	background-color: linear-gradient(to right, rgb(118, 224, 255), rgb(239, 255, 166));
+	text-align: 'center';
+}
+
+@font-face {
+  font-family: 'BeautifulPeople';
+  src: url('/Users/kunalmehta/Desktop/EPL-squads/BeautifulPeople.ttf') format('truetype');
+  font-style: bold;
+}
+
